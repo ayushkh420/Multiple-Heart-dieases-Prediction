@@ -1,4 +1,5 @@
 # Multiple-Heart-dieases-Prediction
+<img width="452" alt="Picture1" src="https://github.com/ayushkh420/Multiple-Heart-dieases-Prediction/assets/72161883/fc72104e-de65-40c2-be87-11416e6e524d">
 
 
 ## Introduction
